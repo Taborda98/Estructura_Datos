@@ -1,5 +1,12 @@
 # 📚 Taller Teórico – Práctico I
 
+## Integrantes:
+
+Valentina Sanchez Marulanda
+Shantal Coneo Garcia
+Mateo Valderrama Caliz
+Julian Adolfo Taborda Marin
+
 ## Estructuras de Datos en Java
 
 Repositorio que contiene la solución del **Taller Teórico – Práctico I** del curso de **Estructuras de Datos**, donde se implementan diferentes soluciones prácticas utilizando **estructuras fundamentales** sin recurrir a implementaciones avanzadas del lenguaje.
