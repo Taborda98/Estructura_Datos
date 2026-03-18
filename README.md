@@ -2,10 +2,14 @@
 
 ## Integrantes:
 
-Valentina Sanchez Marulanda
-Shantal Coneo Garcia
-Mateo Valderrama Caliz
-Julian Adolfo Taborda Marin
+Valentina Sanchez Marulanda. 
+
+Shantal Coneo Garcia.
+
+Mateo Valderrama Caliz.
+
+Julian Adolfo Taborda Marin.
+
 
 ## Estructuras de Datos en Java
 
