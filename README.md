@@ -75,9 +75,9 @@ El repositorio contiene la implementación de **dos ejercicios principales**:
 ```
 /taller-estructuras-datos
 │
-├── ControlInventario.java
+├── ControlInventario
 │
-├── SistemaColaAtencion.java
+├── SistemaColaAtencion
 │
 └── README.md
 ```
